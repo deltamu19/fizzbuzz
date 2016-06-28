@@ -23,3 +23,9 @@ $(document).ready(function() {
   }
   })
 })
+
+//create text input for user to input a number
+//create funtion that takes integer as argument then counts from 1 to argument value and substituting fizz, buzz, fizzbuzz accordingly
+//convert value of user from string to number using +
+//validate user input to ensure user submit a number using parseInt()
+//no decimal value
